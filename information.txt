@@ -1,0 +1,15 @@
+Zoom Meeting Name: Dynamic Binding
+Subject: CS202
+Priority: 2
+Zoom ID: 159-01-023
+
+Website Name: Oregon Live
+subject: Coronavirus updates
+Priority: 1
+URL: www.oregonlive.com/news/articles/coronavirus
+
+Sports Name: NBA Final
+Subject: Basketball
+Priority: 3
+Date: 10-20-2021 8:00 PM PST
+
